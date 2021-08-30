@@ -1,2 +1,2 @@
-# SetGlowing
-Set the Glowing Color
+# PreventTNT
+Prevent TNT from blowing up
